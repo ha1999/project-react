@@ -1,0 +1,9 @@
+ul li {
+  display: inline;
+  width: 25%;
+  float: left;
+}
+
+ul {
+  width: 100%;
+}
